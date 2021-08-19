@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+<!--
+
 <p align="center">
   <img src="https://media2.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" />
 </p>
 
-<!--
 **gs1293/gs1293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
